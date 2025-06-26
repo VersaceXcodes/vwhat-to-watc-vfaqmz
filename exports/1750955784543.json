@@ -1,0 +1,15 @@
+{
+  "timestamp": 1750955784543,
+  "operation": {
+    "id": "db:postgres"
+  },
+  "projectId": "vwhat-to-watc",
+  "files": [
+    {
+      "path": "../../apps/vwhat-to-watc/backend/db.sql",
+      "type": "text",
+      "size": 11583,
+      "dependencies": false
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "timestamp": 1750956375956,
+  "operation": {
+    "id": "webapp:react:root",
+    "refs": {
+      "id": "app",
+      "version": "latest"
+    }
+  },
+  "projectId": "vwhat-to-watc",
+  "files": [
+    {
+      "path": "../../apps/vwhat-to-watc/vitereact/src/App.tsx",
+      "type": "text",
+      "size": 2210,
+      "dependencies": false
+    }
+  ]
+}

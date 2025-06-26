@@ -1,0 +1,15 @@
+{
+  "timestamp": 1750956366275,
+  "operation": {
+    "id": "settings:config:package"
+  },
+  "projectId": "vwhat-to-watc",
+  "files": [
+    {
+      "path": "../../apps/vwhat-to-watc/vitereact/package.json",
+      "type": "text",
+      "size": 2927,
+      "dependencies": true
+    }
+  ]
+}

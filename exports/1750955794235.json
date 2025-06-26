@@ -1,0 +1,15 @@
+{
+  "timestamp": 1750955794235,
+  "operation": {
+    "id": "db:schemas:zod"
+  },
+  "projectId": "vwhat-to-watc",
+  "files": [
+    {
+      "path": "../../apps/vwhat-to-watc/backend/schema.ts",
+      "type": "text",
+      "size": 13614,
+      "dependencies": false
+    }
+  ]
+}

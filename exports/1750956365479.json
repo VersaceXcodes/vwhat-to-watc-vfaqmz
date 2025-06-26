@@ -1,0 +1,19 @@
+{
+  "timestamp": 1750956365479,
+  "operation": {
+    "id": "webapp:react:store",
+    "refs": {
+      "id": "redux",
+      "version": "latest"
+    }
+  },
+  "projectId": "vwhat-to-watc",
+  "files": [
+    {
+      "path": "../../apps/vwhat-to-watc/vitereact/src/store/main.tsx",
+      "type": "text",
+      "size": 10630,
+      "dependencies": false
+    }
+  ]
+}

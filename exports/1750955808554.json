@@ -1,0 +1,15 @@
+{
+  "timestamp": 1750955808554,
+  "operation": {
+    "id": "backend:specifications:asyncapi"
+  },
+  "projectId": "vwhat-to-watc",
+  "files": [
+    {
+      "path": "../../apps/vwhat-to-watc/backend/asyncapi.yaml",
+      "type": "text",
+      "size": 3,
+      "dependencies": false
+    }
+  ]
+}

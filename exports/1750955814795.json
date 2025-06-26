@@ -1,0 +1,15 @@
+{
+  "timestamp": 1750955814795,
+  "operation": {
+    "id": "backend:specifications:openapi"
+  },
+  "projectId": "vwhat-to-watc",
+  "files": [
+    {
+      "path": "../../apps/vwhat-to-watc/backend/openapi.yaml",
+      "type": "text",
+      "size": 11172,
+      "dependencies": false
+    }
+  ]
+}

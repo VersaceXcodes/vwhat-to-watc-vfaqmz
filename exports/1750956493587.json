@@ -1,0 +1,19 @@
+{
+  "timestamp": 1750956493587,
+  "operation": {
+    "id": "webapp:react:views",
+    "refs": {
+      "id": "UV_004",
+      "version": "1750956493351"
+    }
+  },
+  "projectId": "vwhat-to-watc",
+  "files": [
+    {
+      "path": "../../apps/vwhat-to-watc/vitereact/src/components/views/UV_004.tsx",
+      "type": "text",
+      "size": 3146,
+      "dependencies": false
+    }
+  ]
+}
